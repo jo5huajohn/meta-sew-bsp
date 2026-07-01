@@ -12,12 +12,7 @@ Please see the corresponding sections below for details.
   URI: https://github.com/agherzan/meta-raspberrypi
   branch: wrynose
 
-## Table of Contents
-
-  I. Adding the meta-sew-bsp layer to your build
-
-I. Adding the meta-sew-bsp layer to your build
-=================================================
+## Adding the meta-sew-bsp layer to your build
 
 Run 'bitbake-layers add-layer meta-sew-bsp'
 
