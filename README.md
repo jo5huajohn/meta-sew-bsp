@@ -4,17 +4,15 @@ This is a BSP layer for meta-sew
 
 Please see the corresponding sections below for details.
 
-Dependencies
-============
+## Dependencies
 
-  URI: https://github.com/openembedded/meta-openembedded
+  URI: https://git.openembedded.org/openembedded-core
   branch: wrynose
 
   URI: https://github.com/agherzan/meta-raspberrypi
   branch: wrynose
 
-Table of Contents
-=================
+## Table of Contents
 
   I. Adding the meta-sew-bsp layer to your build
 
